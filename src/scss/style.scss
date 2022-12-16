@@ -1,0 +1,23 @@
+span.badge.rounded-pill.bg-primary{
+  background-color: #382bf0 !important;
+  color: white;
+}
+
+
+.greyed-img {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+.hidden{
+  display: none !important;
+}
+
+
+span.badge {
+    background-color: #e8be01;
+    color: #251e00;
+
+}
+span.badge.bg-secondary{
+  background-color: #251e00 !important;
+}

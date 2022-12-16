@@ -1,0 +1,9 @@
+$(document).ready(function(){
+  $('#moreAbout').toggle();
+  $("a.hide").click(function(){
+      $('#moreAbout').hide();
+  });
+  $("a.show").click(function(){
+      $('#moreAbout').show();
+  });
+});
