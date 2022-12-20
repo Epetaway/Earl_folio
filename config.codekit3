@@ -25,6 +25,87 @@
       "oAP" : "\/index.html",
       "oF" : 0
     },
+    "\/src\/assets\/favicon\/android-chrome-192x192.png" : {
+      "ft" : 32768,
+      "iS" : 23812,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/favicon\/android-chrome-192x192.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/src\/assets\/favicon\/android-chrome-512x512.png" : {
+      "ft" : 32768,
+      "iS" : 103977,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/favicon\/android-chrome-512x512.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/src\/assets\/favicon\/apple-touch-icon.png" : {
+      "ft" : 32768,
+      "iS" : 21417,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/favicon\/apple-touch-icon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/src\/assets\/favicon\/favicon-16x16.png" : {
+      "ft" : 32768,
+      "iS" : 713,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/favicon\/favicon-16x16.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/src\/assets\/favicon\/favicon-32x32.png" : {
+      "ft" : 32768,
+      "iS" : 1691,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/favicon\/favicon-32x32.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/src\/assets\/favicon\/favicon.ico" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/favicon\/favicon.ico",
+      "oF" : 0
+    },
+    "\/src\/assets\/favicon\/site.webmanifest" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/favicon\/site.webmanifest",
+      "oF" : 0
+    },
     "\/src\/assets\/img\/folio\/Dashboard_view.png" : {
       "ft" : 32768,
       "iS" : 3254753,
@@ -558,6 +639,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/src\/assets\/svg\/Asset 5.png" : {
+      "ft" : 32768,
+      "iS" : 5477,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/svg\/Asset 5.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/src\/assets\/svg\/BCM-Logo-Vector-White-08-23-2021.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -688,7 +782,7 @@
     "creationDate" : 690244091.08300698,
     "displayValue" : "Earl_folio",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets-rose",
+    "iconImageName" : "\/src\/assets\/favicon\/apple-touch-icon.png",
     "iconImageWasSetByUser" : 0,
     "lastBuiltDate" : 693193669.86183
   },
