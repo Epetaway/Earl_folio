@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"span.badge.rounded-pill.bg-primary{\n  background-color: #382bf0 !important;\n  color: white;\n}\n\n\n.greyed-img {\n  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */\n  filter: grayscale(100%);\n}\n.hidden{\n  display: none !important;\n}\n\n\nspan.badge {\n    background-color: #e8be01;\n    color: #251e00;\n\n}\nspan.badge.bg-secondary{\n  background-color: #251e00 !important;\n}\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,IAAI,AAAA,MAAM,AAAA,aAAa,AAAA,WAAW,CAAA;EAChC,gBAAgB,EAAE,kBAAkB;EACpC,KAAK,EAAE,KAAK;CACb;;;AAGD,AAAA,WAAW,CAAC;EACV,cAAc,EAAE,eAAe;EAAE,sBAAsB;EACvD,MAAM,EAAE,eAAe;CACxB;;;AACD,AAAA,OAAO,CAAA;EACL,OAAO,EAAE,eAAe;CACzB;;;AAGD,AAAA,IAAI,AAAA,MAAM,CAAC;EACP,gBAAgB,EAAE,OAAO;EACzB,KAAK,EAAE,OAAO;CAEjB;;;AACD,AAAA,IAAI,AAAA,MAAM,AAAA,aAAa,CAAA;EACrB,gBAAgB,EAAE,kBAAkB;CACrC"
+}

@@ -17,14 +17,6 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
-    "\/build\/.gitignore" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/.gitignore",
-      "oF" : 0
-    },
     "\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -39,8 +31,8 @@
       "oA" : 0,
       "oAP" : "\/src\/assets\/img\/folio\/Dashboard_view.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -52,7 +44,7 @@
       "oA" : 0,
       "oAP" : "\/src\/assets\/img\/folio\/Directory-1.gif",
       "oF" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "rq" : 75
     },
@@ -62,12 +54,23 @@
       "oA" : 0,
       "oAP" : "\/src\/assets\/img\/folio\/Directory-1.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
       "rq" : 75
+    },
+    "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/5ca34c4199-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/5ca34c4199-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
     },
     "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/5ca34c4199.js" : {
       "bF" : 0,
@@ -76,6 +79,17 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/5ca34c4199-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/app-min-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/app-min-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
@@ -97,12 +111,35 @@
       "oA" : 0,
       "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/bcm-new-color-white.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
       "rq" : 75
+    },
+    "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/bootstrap.min-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/bootstrap.min-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/bootstrap.min-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/bootstrap.min-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
     },
     "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/bootstrap.min.css" : {
       "aP" : 1,
@@ -127,6 +164,18 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/bootstrap.min(1)-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/bootstrap.min(1)-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/bootstrap.min(1).css" : {
       "aP" : 1,
       "bl" : 0,
@@ -136,6 +185,18 @@
       "ma" : 0,
       "oA" : 0,
       "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/bootstrap.min(1)-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/fontawesome.min-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/fontawesome.min-min-min.css",
       "oF" : 0,
       "pg" : 0
     },
@@ -151,6 +212,17 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/jquery-3.6.1-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/jquery-3.6.1-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/jquery-3.6.1.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -158,6 +230,17 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/jquery-3.6.1-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/jquery.min-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/jquery.min-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
@@ -172,6 +255,18 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/main-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/main-min-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/main.css" : {
       "aP" : 1,
@@ -191,8 +286,8 @@
       "oA" : 0,
       "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/Me.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -207,6 +302,17 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/popper.min-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/popper.min-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
     },
     "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/popper.min.js" : {
       "bF" : 0,
@@ -235,8 +341,8 @@
       "oA" : 0,
       "oAP" : "\/src\/assets\/img\/folio\/Earl the Kaiju_files\/verizon.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -256,14 +362,27 @@
       "oA" : 0,
       "oAP" : "\/src\/assets\/img\/folio\/github.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
       "rq" : 75
     },
     "\/src\/assets\/img\/folio\/WSimg-1.jpeg" : {
+      "ft" : 16384,
+      "iS" : 11544,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/img\/folio\/WSimg-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/folio\/WSimg-1.jpg" : {
       "ft" : 16384,
       "iS" : 11544,
       "jF" : 0,
@@ -282,8 +401,8 @@
       "oA" : 0,
       "oAP" : "\/src\/assets\/img\/folio\/WSimg-1.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -295,8 +414,8 @@
       "oA" : 0,
       "oAP" : "\/src\/assets\/img\/folio\/WSimg-2.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -321,8 +440,8 @@
       "oA" : 0,
       "oAP" : "\/src\/assets\/img\/jobs\/bcm-new-color-white.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -395,6 +514,19 @@
       "oAP" : "\/src\/assets\/img\/services\/code.jpg",
       "oF" : 0,
       "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/services\/code.jpg" : {
+      "ft" : 16384,
+      "iS" : 1115047,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/img\/services\/code.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -403,6 +535,19 @@
     "\/src\/assets\/img\/services\/jiu-jitsu.jpeg" : {
       "ft" : 16384,
       "iS" : 157235,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/assets\/img\/services\/jiu-jitsu.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/services\/jiu-jitsu.jpg" : {
+      "ft" : 16384,
+      "iS" : 157000,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/src\/assets\/img\/services\/jiu-jitsu.jpg",
@@ -444,6 +589,26 @@
       "oAP" : "\/src\/css\/main-min.css",
       "oF" : 0,
       "pg" : 0
+    },
+    "\/src\/css\/style.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/css\/style-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/src\/css\/style.map" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/css\/style.map",
+      "oF" : 0
     },
     "\/src\/js\/app-min.js" : {
       "bF" : 0,
@@ -525,7 +690,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-rose",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 690245976.78912604
+    "lastBuiltDate" : 693193669.86183
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

@@ -1,0 +1,30 @@
+/* line 1, ../../../../../../../../../../../../../Users/earlhickson/Documents/GitHub/Earl_folio/src/scss/style.scss */
+span.badge.rounded-pill.bg-primary {
+  background-color: #382bf0 !important;
+  color: white;
+}
+
+/* line 7, ../../../../../../../../../../../../../Users/earlhickson/Documents/GitHub/Earl_folio/src/scss/style.scss */
+.greyed-img {
+  -webkit-filter: grayscale(100%);
+  /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
+/* line 11, ../../../../../../../../../../../../../Users/earlhickson/Documents/GitHub/Earl_folio/src/scss/style.scss */
+.hidden {
+  display: none !important;
+}
+
+/* line 16, ../../../../../../../../../../../../../Users/earlhickson/Documents/GitHub/Earl_folio/src/scss/style.scss */
+span.badge {
+  background-color: #e8be01;
+  color: #251e00;
+}
+
+/* line 21, ../../../../../../../../../../../../../Users/earlhickson/Documents/GitHub/Earl_folio/src/scss/style.scss */
+span.badge.bg-secondary {
+  background-color: #251e00 !important;
+}
+bhkjlb
+/*# sourceMappingURL=style.css.map */

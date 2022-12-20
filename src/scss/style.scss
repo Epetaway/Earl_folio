@@ -3,6 +3,8 @@ span.badge.rounded-pill.bg-primary{
   color: white;
 }
 
+.logoIcon.drop-shadow{filter: drop-shadow(0 0 0.25rem #00ab62);}
+.drop-shadow{filter: drop-shadow(1rem 0 2.5rem #0e1e1d);}
 
 .greyed-img {
   -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
@@ -13,8 +15,8 @@ span.badge.rounded-pill.bg-primary{
 }
 
 
-span.badge {
-    background-color: #e8be01;
+span.badge, .btn-warning {
+    background-color: #F9B605 !important;
     color: #251e00;
 
 }

@@ -1,0 +1,1 @@
+$(document).ready((function(){$("#moreAbout").toggle(),$("button.hide").click((function(){$("#moreAbout").hide()})),$("button.show").click((function(){$("#moreAbout").show()}))}));
